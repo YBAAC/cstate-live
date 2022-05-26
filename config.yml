@@ -93,7 +93,7 @@ defaultContentLanguage: en
 # baseUrl: https://status.example.com/
 #
 # For testing:
-# baseUrl: http://localhost
+# baseUrl: http://localhostqwerqwerqwerw
 #
 # Broken example:
 # baseUrl: /
@@ -150,7 +150,7 @@ params:
     - name: Uncategorized
       untitled: true
 
-  # These are your systems. Change them to
+  # These are your system#fasdfasdfasdfs. Change them to
   # change the amount of components.
   #
   # These are case sensitive.

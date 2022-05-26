@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://chimpled.ixo.earth
+baseURL: https://chimple.ixo.earth
 
 # For features like Last modified, you
 # need to use a Git repository. If you

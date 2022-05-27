@@ -143,9 +143,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
+    - name: Earth
+      description: Servers hosted by ixo
+      closed: false
+    - name: World
+      description: Servers hosted by SimplyVC
+      closed: false
     - name: Empty Category
     - name: Uncategorized
       untitled: true
@@ -158,21 +161,30 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
-
+    - name: Blockchain 
+      category: .earth
+      link: https://testnet.ixo.earth/rest
+    - name: Blocksync 
+      category: .earth
+      link: https://blocksync-pandora.ixo.earth
+    - name: Cellnode 
+      category: .earth
+      link: https://cellnode-pandora.ixo.earth
+    - name: Blockscan
+      category: .earth
+      link: https://blockscan-pandora.ixo.earth
+    - name: Blockchain 
+      category: .world
+      link: https://testnet.ixo.world/rest
+    - name: Blocksync 
+      category: .world
+      link: https://blocksync-pandora.ixo.world
+    - name: Cellnode 
+      category: .world
+      link: https://cellnode-pandora.ixo.world
+    - name: Blockscan
+      category: .world
+      link: https://blockscan-pandora.ixo.world
   # What date format to use?
   #
   # Hugo formatting docs:

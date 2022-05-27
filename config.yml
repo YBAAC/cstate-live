@@ -143,10 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Earth
+    - name: .earth
       description: Servers hosted by ixo
       closed: false
-    - name: World
+    - name: .world
       description: Servers hosted by SimplyVC
       closed: false
     - name: Empty Category

@@ -180,9 +180,6 @@ params:
     - name: Blockscan
       category: pandora earth
       link: https://blockscan-pandora.ixo.earth
-    - name: Blockchain 
-      category: pandora world
-      link: https://testnet.ixo.world/rest
     # Testnet world
     - name: Blocksync 
       category: pandora world
@@ -193,8 +190,9 @@ params:
     - name: Blockscan
       category: pandora world
       link: https://blockscan-pandora.ixo.world
-        - name: Blockchain 
-      category: .earth
+    - name: Blockchain 
+      category: pandora world
+      link: https://testnet.ixo.world/rest
     # impacthub earth
       link: https://impacthub.ixo.earth/rest
     - name: Blocksync 

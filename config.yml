@@ -143,16 +143,16 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: pandora earth
+    - name: Pandora earth
       description: Servers hosted by ixo
       closed: false
-    - name: pandora world
+    - name: Pandora world
       description: Servers hosted by SimplyVC
       closed: true
-    - name: impacthub earth
+    - name: Impacthub earth
       description: Servers hosted by ixo
       closed: false
-    - name: impacthub world
+    - name: Impacthub world
       description: Servers hosted by SimplyVC
       closed: true
    # - name: Empty Category
@@ -169,53 +169,53 @@ params:
   systems:
     # Testnet earth
     - name: Blockchain 
-      category: pandora earth
+      category: Pandora earth
       link: https://testnet.ixo.earth/rest
     - name: Blocksync 
-      category: pandora earth
+      category: Pandora earth
       link: https://blocksync-pandora.ixo.earth
     - name: Cellnode 
-      category: pandora earth
+      category: Pandora earth
       link: https://cellnode-pandora.ixo.earth
     - name: Blockscan
-      category: pandora earth
+      category: Pandora earth
       link: https://blockscan-pandora.ixo.earth
     # Testnet world
     - name: Blocksync 
-      category: pandora world
+      category: Pandora world
       link: https://blocksync-pandora.ixo.world
     - name: Cellnode 
-      category: pandora world
+      category: Pandora world
       link: https://cellnode-pandora.ixo.world
     - name: Blockscan
-      category: pandora world
+      category: Pandora world
       link: https://blockscan-pandora.ixo.world
     - name: Blockchain 
-      category: pandora world
+      category: Pandora world
       link: https://testnet.ixo.world/rest
     # impacthub earth
       link: https://impacthub.ixo.earth/rest
     - name: Blocksync 
-      category: .earth
+      category: Impacthub earth
       link: https://blocksync.ixo.earth
     - name: Cellnode 
-      category: .earth
+      category: Impacthub earth
       link: https://cellnode.ixo.earth
     - name: Blockscan
-      category: .earth
+      category: Impacthub earth
       link: https://blockscan.ixo.earth
     # world
     - name: Blockchain 
-      category: .world
+      category: Impacthub world
       link: https://impacthub.ixo.world/rest
     - name: Blocksync 
-      category: .world
+      category: Impacthub world
       link: https://blocksync.ixo.world
     - name: Cellnode 
-      category: .world
+      category: Impacthub world
       link: https://cellnode.ixo.world
     - name: Blockscan
-      category: .world
+      category: Impacthub world
       link: https://blockscan.ixo.world 
   # What date format to use?
   #

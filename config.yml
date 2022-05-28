@@ -149,7 +149,7 @@ params:
     - name: pandora world
       description: Servers hosted by SimplyVC
       closed: true
-      - name: impacthub earth
+    - name: impacthub earth
       description: Servers hosted by ixo
       closed: false
     - name: impacthub world

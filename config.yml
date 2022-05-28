@@ -197,16 +197,16 @@ params:
 
     # impacthub earth
     - name: Blockchain 
-      category: Impacthub world
+      category: Impacthub earth
       link: https://impacthub.ixo.earth/rest
     - name: Blocksync 
-      category: Impacthub world
+      category: Impacthub earth
       link: https://blocksync.ixo.earth
     - name: Cellnode 
-      category: Impacthub world
+      category: Impacthub earth
       link: https://cellnode.ixo.earth
     - name: Blockscan
-      category: Impacthub world
+      category: Impacthub earth
       link: https://blockscan.ixo.earth 
 
     # world
